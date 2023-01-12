@@ -1,0 +1,16 @@
+#list2 {
+    background-color: orangered;
+    color: black;
+    font-weight: 800;
+}
+.body #header{
+    background-color: lavender;
+    color: blueviolet;
+}
+.body {
+    text-align: center;
+}
+.list{
+    list-style: decimal;
+    
+}
