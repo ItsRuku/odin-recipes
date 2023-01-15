@@ -1,11 +1,27 @@
+.body #header{
+    background-color: lavender;
+    color: blueviolet;
+}
+#header2, #description, #ingre, #instru {
+    background-color: #00DCFF;
+    color: black;
+ }
+.body2 
+{
+    text-align: center;
+}
+#ul-list{
+     list-style-position:inside;
+}
+#picture1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #list2 {
     background-color: orangered;
     color: black;
     font-weight: 800;
-}
-.body #header{
-    background-color: lavender;
-    color: blueviolet;
 }
 .body {
     text-align: center;
@@ -14,3 +30,4 @@
     list-style: decimal;
     
 }
+
