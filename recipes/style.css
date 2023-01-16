@@ -6,14 +6,15 @@
     background-color: #00DCFF;
     color: black;
  }
-.body2 
+.body2, .body3
 {
     text-align: center;
+    font-family: "Brush Script MT", Georgia, sans-serif;
 }
 #ul-list{
      list-style-position:inside;
 }
-#picture1{
+#picture1, #pic2{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -29,5 +30,9 @@
 .list{
     list-style: decimal;
     
+}
+#header3, #description-2, #instru2, #ingre2{
+    background-color: darkorchid;
+    color:cornsilk;
 }
 
