@@ -6,7 +6,7 @@
     background-color: #00DCFF;
     color: black;
  }
-.body2, .body3
+.body2, .body3, .body4
 {
     text-align: center;
     font-family: "Brush Script MT", Georgia, sans-serif;
@@ -14,7 +14,7 @@
 #ul-list{
      list-style-position:inside;
 }
-#picture1, #pic2{
+#picture1, #pic2, #pic3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -34,5 +34,9 @@
 #header3, #description-2, #instru2, #ingre2{
     background-color: darkorchid;
     color:cornsilk;
+}
+#header4, #ingre3, #instru3 {
+    background-color: lightgreen;
+    color: palevioletred;
 }
 
